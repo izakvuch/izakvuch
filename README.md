@@ -15,8 +15,10 @@ GenAI Chatbots through LLM-Generated Probes](https://arxiv.org/abs/2603.03727) �
 CHI 2026, Barcelona. I built the multi-agent LLM pipeline that generated the synthetic
 child–chatbot scenarios the study is built on, and shipped the parental moderation and
 policy-configuration layer into
-[DSL-kidsgpt-open-webui](https://github.com/jjdrisco/DSL-kidsgpt-open-webui)
-(40 commits, Svelte/TypeScript frontend + FastAPI backend).
+a production open-source chat platform —
+[40 commits](https://github.com/jjdrisco/DSL-kidsgpt-open-webui/commits?author=izakvuch)
+across its Svelte/TypeScript frontend and FastAPI backend between June 2025 and
+April 2026.
 
 **[outbound-engine](https://github.com/izakvuch/outbound-engine)** — ~19,000 lines of
 Python. Finds local businesses with measurable website defects, grounds an audit email in
