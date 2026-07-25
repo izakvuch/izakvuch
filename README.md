@@ -26,7 +26,7 @@ real Lighthouse data, and auto-builds a tailored Next.js demo when someone repli
 Every LLM call routes through a budget-aware provider chain with per-provider token
 buckets, so the whole thing runs on free tiers at zero inference cost. 515 tests.
 
-**The Skinz Golf Tour** — I've been the engineer and technical lead since 2024. Supabase
+**The Skinz Game Golf Tour** — I've been the engineer and technical lead since 2024. Supabase
 edge functions and Stripe handle registration and entry fees for 1,000+ players;
 subscription-based state sync keeps live leaderboards correct across 15+ concurrent
 tournaments.
